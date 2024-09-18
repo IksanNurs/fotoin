@@ -1,0 +1,1 @@
+ E:\\project\ unand\\FotoIn\\.dart_tool\\flutter_build\\225c521ca7212e9af5fe937ded8b3e57\\native_assets.yaml: 
